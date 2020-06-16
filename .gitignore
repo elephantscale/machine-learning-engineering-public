@@ -1,0 +1,21 @@
+model.png
+*.out*
+out-*
+*.zip
+.DS_Store
+metastore_db/
+*.swp
+*.log
+logs
+*.csv
+*.json
+*.data
+target
+*.out
+not-using
+*.html
+
+# python
+.ipynb_checkpoints
+__pycache__
+data
